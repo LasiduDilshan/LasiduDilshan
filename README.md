@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lasidu Dilshan</h1>
-<h3 align="center">A passionate on networking and VHDL design</h3>
+<h3 align="center">Student in Electronics and Telecommunication Engineering at University of Moratuwa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasidudilshan&label=Profile%20views&color=0e75b6&style=flat" alt="lasidudilshan" /> </p>
+
+I am a passionate student who loves to learn theories and apply the theoretical knowledge in practice. I am particularly passionate about telecommunication, networking, and HDL. Currently, I am self-learning Cisco networking.
 
 - 🌱 I’m currently learning **Cisco Networking**
 
