@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasidudilshan&label=Profile%20views&color=0e75b6&style=flat" alt="lasidudilshan" /> </p>
 
-I am a passionate student who loves to learn theories and apply the theoretical knowledge in practice. I am particularly passionate about telecommunication, networking, and HDL. Currently, I am self-learning Cisco networking.
-
-- 🌱 I’m currently learning **Cisco Networking**
+I am a passionate student who loves to learn theories and apply the theoretical knowledge in practice. I am particularly passionate about telecommunication, networking, and HDL.
 
 - 📫 How to reach me **dilshanlasindu0@gmail.com**
 
