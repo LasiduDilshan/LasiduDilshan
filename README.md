@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I am a passionate student who loves to bridge theory with practice. I focus on areas like telecommunication, networking, software design and hardware description languages (HDL).
+  I am a passionate student who loves to bridge theory with practice. I focus on areas like telecommunication, networking, software development and hardware description languages (HDL).
 </p>
 
 ---
@@ -30,7 +30,7 @@
   Networking<br>
   IoT<br>
   Signal Processing<br>
-  Software Design<br>
+  Software Development<br>
   Machine Learning<br>
   Embedded Systems<br>
   Digital Hardware Design<br>
