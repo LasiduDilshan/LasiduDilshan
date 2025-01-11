@@ -72,7 +72,11 @@
 <h3 align="center">📊 GitHub Statistics</h3>
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LasiduDilshan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LasiduDilshan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages With Jupyter">
+  </p>
+  <p>
+    <b>Without Jupyter Notebook:</b><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LasiduDilshan&hide=jupyter%20notebook&layout=compact&theme=radical" alt="Top Languages Without Jupyter">
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=LasiduDilshan&show_icons=true&theme=radical" alt="GitHub Stats">
