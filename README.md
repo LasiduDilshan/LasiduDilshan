@@ -78,13 +78,11 @@
     <b>Without Jupyter Notebook:</b><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LasiduDilshan&hide=jupyter%20notebook&layout=compact&theme=radical" alt="Top Languages Without Jupyter">
   </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=LasiduDilshan&show_icons=true&theme=radical" alt="GitHub Stats">
-  </p>
-  <h3 align="center">📊 GitHub Statistics</h3>
+</div>
+
+<h3 align="center">📊 GitHub Statistics</h3>
 <div align="center">
   <img src="https://github.com/LasiduDilshan/LasiduDilshan/blob/main/github-metrics.svg?raw=true" alt="GitHub Metrics" />
-</div>
 </div>
 
 ---
