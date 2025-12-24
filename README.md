@@ -31,7 +31,7 @@
 
 ---
 
-## ⚒️ Tech Stack (working icons)
+## ⚒️ Tech Stack 
 
 ### Programming
 <p>
