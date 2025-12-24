@@ -123,30 +123,30 @@
 
 ---
 
-## 📊 GitHub Stats (fixed links)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LasiduDilshan&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasiduDilshan&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=21600" />
+  <img src="https://github.com/LasiduDilshan/LasiduDilshan/blob/main/github-metrics.svg?raw=true" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=LasiduDilshan&theme=radical&hide_border=true" />
+  <img src="https://github.com/LasiduDilshan/LasiduDilshan/blob/main/metrics-languages.svg?raw=true" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LasiduDilshan&theme=onedark&row=1&column=6&no-frame=true&no-bg=true" />
+  <img src="https://github.com/LasiduDilshan/LasiduDilshan/blob/main/metrics-isocalendar.svg?raw=true" alt="Contribution Calendar" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/LasiduDilshan/LasiduDilshan/blob/main/github-metrics.svg?raw=true" alt="metrics" />
+  <img src="https://github.com/LasiduDilshan/LasiduDilshan/blob/main/metrics-habits.svg?raw=true" alt="Habits" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake (Animation)
+
 <p align="center">
-  <img src="https://github.com/LasiduDilshan/LasiduDilshan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/LasiduDilshan/LasiduDilshan/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="snake animation" />
 </p>
 
 ---
